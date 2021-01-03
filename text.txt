@@ -1,0 +1,30 @@
+
+
+
+
+color-
+yellow:#ff6005;
+text:#ffffff;
+
+#2e3192;
+#636363;
+
+
+h1
+md-32px sm-28px col-25px
+
+padding lg margin-top: 100px;
+			margin-bottom: 120px;
+
+		md margin-top: 80px;
+			margin-bottom: 100px;
+
+		sm margin-top: 60px;
+			margin-bottom: 80px;
+
+		col margin-top: 50px;
+			margin-bottom: 70px
+https://www.template.net/editable/43905/hr-consulting-website
+banner 1920*583
+
+ width="560" height="315" 
